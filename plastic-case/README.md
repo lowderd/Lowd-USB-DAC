@@ -31,21 +31,19 @@ it will be good to modify the 3D model and make it shorter, in order
 to save money in plastic. 
 
 ## SCREW SIZE
-
-      6 mm
-  -----------   ........
-  \         /            2 mm
-   \       /    ........
-    |     |  
-    |     |
-    |     |
-    |     |              15 mm
-    |     |
-    |     |
-    |     |
-    |_ _ _| .............
-     
-      3 mm
+          6 mm                    
+      -----------   ........
+      \         /            2 mm
+       \       /    ........
+        |     |  
+        |     |
+        |     |
+        |     |              15 mm
+        |     |
+        |     |
+        |     |
+        |_ _ _| .............
+          3mm     
 
 
 The files included are:
